@@ -1,6 +1,6 @@
 // Network-first for the app itself: a new version shows up the moment you open the app while online.
 // If you're offline, or the connection is very slow, it opens the saved copy instead.
-const V = 'ceol-v9';
+const V = 'ceol-v10';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 self.addEventListener('install', e => {
   // one missing file must not stop the app from installing
