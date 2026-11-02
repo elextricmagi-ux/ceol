@@ -1,4 +1,4 @@
-# Chordstand
+# Ceol
 
 Personal chord-sheet app: search your library, transpose, capo, autoscroll, favorites, setlists.
 Installs to the home screen on Pixel and iPad. No build step, no dependencies: it's static files.
